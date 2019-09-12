@@ -1,9 +1,10 @@
 # Write a speak_to_grandma method.
-if "how are you grandma"
+if "I love you grandma"
   return "HUH?! SPEAK UP, SONNY!"
-elseif "HOW ARE YOU GRANDMA?"
+elseif "I LOVE YOU GRANDMA!"
   return "NO, NOT SINCE 1938!"
-else 
+else "I LOVE YOU TOO PUMPKIN!"
+end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
