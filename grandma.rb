@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
-if how are you grandma
+if how are you grandma?
   puts HUH?! SPEAK UP, SONNY!.
-elseif HOW ARE YOU GRANDMA
+elseif HOW ARE YOU GRANDMA?
   puts NO, NOT SINCE 1938!
 else 
 
