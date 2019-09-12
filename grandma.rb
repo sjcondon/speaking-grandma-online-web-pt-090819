@@ -1,5 +1,6 @@
 # Write a speak_to_grandma method.
-if 
+if how are you grandma
+  puts 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
