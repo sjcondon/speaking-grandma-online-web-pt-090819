@@ -2,7 +2,8 @@
 if how are you grandma
   puts HUH?! SPEAK UP, SONNY!.
 elseif HOW ARE YOU GRANDMA
-  puts
+  puts NO, NOT SINCE 1938!
+else 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
