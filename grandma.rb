@@ -1,8 +1,8 @@
 # Write a speak_to_grandma method.
-if I love you grandma
-  puts HUH?! SPEAK UP, SONNY!.
-elseif HOW ARE YOU GRANDMA?
-  puts NO, NOT SINCE 1938!
+if "how are you grandma"
+  return "HUH?! SPEAK UP, SONNY!"
+elseif "HOW ARE YOU GRANDMA?"
+  return "NO, NOT SINCE 1938!"
 else 
 
 # Whatever you say to grandma, she should respond with
