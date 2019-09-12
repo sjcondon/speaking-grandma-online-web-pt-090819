@@ -1,8 +1,8 @@
 # Write a speak_to_grandma method.
 if "I love you grandma"
-  return "HUH?! SPEAK UP, SONNY!"
+  puts "HUH?! SPEAK UP, SONNY!"
 elseif "I LOVE YOU GRANDMA!"
-  return "NO, NOT SINCE 1938!"
+  puts "NO, NOT SINCE 1938!"
 else "I LOVE YOU TOO PUMPKIN!"
 end
 
